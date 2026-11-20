@@ -1,0 +1,17 @@
+BEFORE SUBMITTING TO LABMENTIX
+
+[ ] Extract this ZIP.
+[ ] Open the folder in VS Code or terminal.
+[ ] Create and activate a Python virtual environment.
+[ ] Run: pip install -r requirements.txt
+[ ] Run: python -m src.data_loader
+[ ] Run: python -m src.train
+[ ] Check outputs/model_metrics.csv and generated plots.
+[ ] Run: streamlit run app.py and test the dashboard.
+[ ] Update REPORT.md with the actual metrics from model_metrics.csv.
+[ ] Push the project folder to a NEW PUBLIC GitHub repository named:
+    customer-churn-prediction
+[ ] Submit the public GitHub repository URL in the Labmentix form.
+
+Do not claim the model has achieved a particular score until you have run it.
+Do not submit the ZIP alone if the form asks for a project link.
